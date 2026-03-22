@@ -10,17 +10,23 @@ const Contact = () => {
           <div className="contact-box">
             <h4>Email</h4>
             <p>
-              <a href="mailto:rajeshchittyal21@gmail.com" data-cursor="disable">
-                rajeshchittyal21@gmail.com
+              <a href="mailto:abhishekmandge@gmail.com" data-cursor="disable">
+                abhishekmandge@gmail.com
+              </a>
+            </p>
+            <h4 style={{ marginTop: '20px' }}>Contact Details</h4>
+            <p>
+              <a href="tel:+919370227033" data-cursor="disable">
+                +91 9370227033
               </a>
             </p>
             <h4>Education</h4>
-            <p>BSc in Computer Science</p>
+            <p>BE in Computer Science</p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
             <a
-              href="https://github.com/raxx21"
+              href="https://github.com/AbhishekMandge"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -28,7 +34,7 @@ const Contact = () => {
               Github <MdArrowOutward />
             </a>
             <a
-              href="https://www.linkedin.com/in/rajesh-chityal-2a70141b3"
+              href="https://www.linkedin.com/in/abhishek-mandge"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -36,15 +42,15 @@ const Contact = () => {
               Linkedin <MdArrowOutward />
             </a>
             <a
-              href="https://x.com/raxx21_official"
+              href="https://leetcode.com/u/Abhishek_Mandge/"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
             >
-              Twitter <MdArrowOutward />
+              LeetCode <MdArrowOutward />
             </a>
             <a
-              href="https://www.instagram.com/therajeshchityal"
+              href="#"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
@@ -54,10 +60,10 @@ const Contact = () => {
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Rajesh Chityal</span>
+              Designed and Developed <br /> by <span>Abhishek Mandge</span>
             </h2>
             <h5>
-              <MdCopyright /> 2025
+              <MdCopyright /> 2026
             </h5>
           </div>
         </div>

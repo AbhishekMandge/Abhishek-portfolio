@@ -15,43 +15,25 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Ikshan</h5>
+                <h4>Data Engineer</h4>
+                <h5>Wipro Ltd</h5>
               </div>
-              <h3>2020</h3>
+              <h3>2022</h3>
             </div>
             <p>
-              Built 6+ complete applications using React.js. Integrated backend
-              authentication using Node.js & MongoDB. Created responsive UI/UX
-              and designed wireframes using Figma.
+              Built distributed ETL pipelines handling multi-TB datasets on Azure cloud. Migrated SAS workflows to PySpark, optimizing SQL Server executing times from 3 hours to 30 minutes, and established CI/CD pipelines.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Senior Full Stack Developer</h4>
-                <h5>Monocept (Max Life Insurance)</h5>
-              </div>
-              <h3>2021</h3>
-            </div>
-            <p>
-              Led two development teams on Mpro, a large-scale insurance
-              operations platform. Developed multiple modules using React.js &
-              migrated critical functionalities to Node.js microservices.
-            </p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Logic Loop</h5>
+                <h4>Data Engineer</h4>
+                <h5>Sigmoid India</h5>
               </div>
               <h3>NOW</h3>
             </div>
             <p>
-              Building Solid, a proprietary low-code platform using Angular,
-              Next.js & NestJS. Delivering production-ready CMS-based projects
-              including e-commerce, CRM, and import-export automation systems.
+              Architected scalable Azure-based Lakehouse platform. Designed REST API ingestion frameworks for real-time analytics. Automated migration of legacy SQL to DBT models with ChatGPT and reduced runtime via Spark optimizations.
             </p>
           </div>
         </div>
